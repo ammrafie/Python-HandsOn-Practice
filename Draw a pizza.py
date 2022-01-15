@@ -1,4 +1,4 @@
-# Draw a Pizza!
+# Draw a Pizza using Turtle Graphics!
 
 import turtle
 
